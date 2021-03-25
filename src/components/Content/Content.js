@@ -7,6 +7,10 @@ function Content() {
     <div className="content">
       <HeroImage />
       <Container />
+      <Container />
+      <Container />
+      <Container />
+      <Container />
     </div>
   )
 }

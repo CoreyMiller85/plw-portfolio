@@ -4,4 +4,8 @@
   padding: 1rem;
   border-radius: 5px;
   box-shadow: $box-shadow-small;
+
+  &:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
