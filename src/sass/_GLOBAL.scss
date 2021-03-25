@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans";
+  
+}
+
+html, body {
+  overscroll-behavior: none;
+}
+
+body {
+  background: url('../img/luca_braco_skyway.jpeg') no-repeat center center fixed;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: auto;
+
+  
+}

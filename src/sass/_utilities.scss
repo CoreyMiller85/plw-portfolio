@@ -1,0 +1,25 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex:  1 2 63%;
+}
+
+.column-left {
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 34%;
+}
