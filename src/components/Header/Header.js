@@ -10,8 +10,8 @@ const Header = () => {
         <h4 className="header__logo--sub">Bachelor of Business Administration</h4>
       </div>
       <ul className="header__list">
-        <li className="header__item"><a href="#">Projects</a></li>
-        <li className="header__item"><a href="#">About</a></li>
+        <li className="header__item"><a href="#">About Me</a></li>
+        <li className="header__item"><a href="#">Experience</a></li>
         <li className="header__item"><a href="#">Contact</a></li>
       </ul>
     </div>
